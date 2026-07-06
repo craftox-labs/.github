@@ -10,6 +10,10 @@
 
 ---
 
+<div align="center">
+
 Currently in the workshop: **timedart** — a time-tracking and invoicing app for people who bill by the hour.
 
 More soon.
+
+</div>
