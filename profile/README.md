@@ -1,7 +1,7 @@
 <div align="center">
   <img src="co-stacked.png" alt="craftox" width="220">
   <br><br>
-  <p><em>Crafting with a hug and a kiss.</em><br>Focused solutions.</p>
+  <p>Focused solutions.<br><em>Crafting with a hug and a kiss.</em> w</p>
 
   <p>
     <a href="https://craftox-labs.github.io">craftox-labs.github.io</a>
