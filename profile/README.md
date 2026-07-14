@@ -6,8 +6,6 @@
 
   <p>
     <a href="https://craftox-labs.github.io"><strong>craftox-labs.github.io</strong></a>
-    &nbsp;·&nbsp;
-    <a href="mailto:craftox@proton.me">craftox@proton.me</a>
   </p>
 </div>
 
@@ -15,7 +13,7 @@
 
 <div align="center">
 
-### Currently in the workshop
+### Currently crafting
 
 **[timedart](https://github.com/craftox-labs/timedart)** — local-first time tracking &amp; invoicing for people who bill by the hour.
 
