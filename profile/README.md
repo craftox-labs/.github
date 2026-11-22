@@ -15,7 +15,7 @@
 
 ### Currently crafting
 
-<img src="https://raw.githubusercontent.com/craftox-labs/davdart/main/assets/logo/davdart.svg" alt="davdart" width="96">
+<a href="https://github.com/craftox-labs/davdart"><img src="https://raw.githubusercontent.com/craftox-labs/davdart/main/assets/logo/davdart.svg" alt="davdart" width="96"></a>
 
 **[davdart](https://github.com/craftox-labs/davdart)** — notes, tasks and events over CalDAV, local-first with sync. In early development.
 
@@ -27,7 +27,7 @@ More soon.
 
 ### Previously crafted
 
-**[timedart](https://github.com/craftox-labs/timedart)** — local-first time tracking &amp; invoicing for people who bill by the hour. No longer actively developed.
+**[timedart](https://github.com/craftox-labs/timedart)** — local-first time tracking &amp; invoicing for people who bill by the hour.
 
 [Website](https://timedart.app) · [Live demo](https://demo.timedart.app) · [Source](https://github.com/craftox-labs/timedart)
 
