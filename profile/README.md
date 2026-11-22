@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="co-stacked.png" alt="craftox" width="220">
+  <img src="https://raw.githubusercontent.com/craftox-labs/.github/main/profile/co-stacked.png" alt="craftox" width="220">
   <br><br>
   <p><strong>Focused solutions, crafted with care.</strong></p>
   <p>A small independent studio building focused, local-first software<br>that respects your time and your data.</p>
