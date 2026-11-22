@@ -19,6 +19,10 @@
 
 [Website](https://timedart.app) · [Live demo](https://demo.timedart.app) · [Source](https://github.com/craftox-labs/timedart)
 
+**[davdart](https://github.com/craftox-labs/davdart)** — notes, tasks and events over CalDAV, local-first with sync. In early development.
+
+[Source](https://github.com/craftox-labs/davdart)
+
 More soon.
 
 </div>
