@@ -15,7 +15,7 @@
 
 ### Currently crafting
 
-<a href="https://github.com/craftox-labs/davdart"><img src="https://raw.githubusercontent.com/craftox-labs/davdart/main/assets/logo/davdart.svg" alt="davdart" width="96"></a>
+<a href="https://github.com/craftox-labs/davdart"><img src="https://raw.githubusercontent.com/craftox-labs/davdart/main/assets/logo/davdart.svg" alt="davdart" width="48"></a>
 
 **[davdart](https://github.com/craftox-labs/davdart)** — notes, tasks and events over CalDAV, local-first with sync. In early development.
 
